@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237048850417",
+    "firebase_url": "https://matemo-896b1.firebaseio.com",
+    "project_id": "matemo-896b1",
+    "storage_bucket": "matemo-896b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237048850417:android:04b1645bb01d2a86ca8650",
+        "android_client_info": {
+          "package_name": "com.islamozcelik.matemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237048850417-2gn3mj23de6r65k93h6avglos302q0t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdTHkeVw2tTwP3bNrSKCx2PszzBYlkF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237048850417-2gn3mj23de6r65k93h6avglos302q0t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,240 @@
+[
+    {
+        "1": "a ve b birer rakam olmak üzere a+b en çok kaçtır?",
+        "2": "a ve b birbirinden farkl�(alt� �izili) rakamlar olmak �zere, \n a+b en �ok(alt� �izili) ka�t�r?",
+        "3": "a ve b do�al say�(alt� �izili) olmak �zere, \n a+b = 20 ise a.b �arp�m�n�n alabilece�i en b�y�k de�er ka�t�r?",
+        "4": "a ve b do�al say�(alt� �izili) olmak �zere, \n  a.b =36 ise a+b toplam� en �ok ka�t�r?",
+        "5": "a ve b birer tam say� olmak �zere, \n a.b=24 ise a+b 'nin en k���k de�eri ka�t�r?",
+        "6": "a ve b pozitif tam say�lard�r.(dikd�rtgen �ekli �iz) \n �ekildeki dikd�rtgenin �evresi 40 cm ise alan� en �ok ka� cm (kare olacak ) olabilir?",
+        "7": "A�a��dakilerden hangisi rasyoneldir?",
+        "8": "Hangisi irrasyoneldir?",
+        "9": "A ve B do�al say�, x ger�ek say� olmak �zere, \n A=  4-x \n B= x+6 oldu�una g�re A.B �arp�m�n�n en b�y�k (alt� �izili ) de�eri ka�t�r?",
+        "10": "�ekil var  \n A��rl�klar� birer pozitif tam say� (alt� �izili) olan �zde� 4 k�p ve �zde� 5 k�re ile 55 kg a��rl�k �ekildeki gibi e�it kollu terazide dengededir.\n Buna g�re bir k�p�n a��rl��� en az (alt� �izili) ka� kg 'd�r?",
+        "11": "(�ekil var) A,B,C,D,D,E,F s�f�rdan farkl� rakamlar olmak �zere, bir markette cam �i�eli �r�n fiyat� barkoddaki rakamlar�n toplam�na ,reyon �r�n� fiyat� barkoddaki rakamlar�n �arp�m�na e�ittir. \n Buna g�re a�a��da barkodu verilen �r�nlerden hangisi cam �i�edeki reyon �r�n� fiyat� olabilir?  (cam �i�edeki reyon �r�n� alt� �izili)",
+
+        "12": "A�a��dakilerden hangisi �ift say�d�r?",
+        "13": "A�a��dakilerden hangisi daima tek(alt� �izili) say�d�r? ",
+        "14": " a,b,c birer pozitif tam say�d�r.\n  2a-b (b�l� 7) =c oldu�una g�re hangisi daima do�rudur?",
+        "15": "(�ekil var) A ve B k�melerinin i�inde yazan (a k�pi cve b kare) eleman say�lar�n� ifade etmektedir.\n s(A) �ift ve s(B) tek oldu�una g�re ,\n  (BURAYI ROMA RAKAMI YAZ) 1.s(AUB) tektir. 2.s(A KES���M B) �ifttir.3.s(A\\B) + s(B\\A) tektir.",
+        "16": "a>0, b<0, c>0olmak �zere hangisi daima pozitiftir?(alt� �izili)",
+        "17": " a<0<b<c olmak �zere hangisi daima pozitiftir?(alt� �izili)",
+        "18": " a ve b ger�ek say�lar olmak �zere,\n a (�ss�4).b <0 \n a.b (�ss�3) >0 ise a ve b'nin i�aretleri hakk�nda ne s�ylenebilir?",
+        "19": "Ege akl�ndan bir tam say� tutmu�tur.��  arkada��ndan da bir tam say� tutmalar�n� istemi�tir.Arkada�lar�n�n se�ti�i tam say�lar�n �arp�m� pozitiftir.(alt�n� �iz) \n Kendi say�s� ile birlikte t�m say�lar�n �arp�m� ise negatif bir tam say� olmaktad�r.\n Kendi tuttu�u say�y� herhangi bir arkada��n�n tuttu�u say� ile �arparsa sonu� s�f�rdan k���k olmaktad�r.(alt� �izili) \n Buna g�re a�a��dakilerden hangisi Ege ve arkada�lar�n�n tuttu�u say�lar olabilir?",
+        "20": "x ve y tam say�lar� i�in, \n 4x +y =17 oldu�una g�re, \n 1.(roma rakam�) y tek say�d�r. \n 2.y say�s� x'ten k���kt�r. \n 3.x say�s� y'den k���kt�r. \n ifadelerinden hangileri her zaman (alt� �izili) do�rdur?",
+        "21": "(�ekil var) Tabloda verilen sosyal medya platforml\r� �ye say�lar�n�n art��-azal�� durumuna g�re tam say�larla ifade ediliyor.\n �.Y >0 \n �.F <0 Y.F.T <0 \n Buna g�re bu platformlardan hangisi veya hangileri kesinlikle (alt� �izili) �ye art��� ya�am��t�r?",
+        "22": "(�ekil var)Yukar�daki �okgenlerin k��elerinde verilen say�lar�n �arp�m�n�n i�areti �okgen i�erisinde belirtilmi�tir.Bu �r�nt� bu �ekilde devam etmektedir.\n 1.(roma rakam� ) x 42 . x 43(alt indis)<0 \n 2.(roma rakam�) x19.x23.x29 >0 \n 3.(roma rakam�)x21.x50>0",
+        "23": "a ve b birer rakam \n 3a=2b oldu�una g�re  4a+b 'nin alabilece�i en b�y�k (alt� �izili) de�er ka�t�r?",
+        "24": "a ve b birer tam say�,\n 5a=4b \n -20<a+b<0 ise a ka�t�r?",
+        "25": "a,b,c birer rakam \n a(b�l�)b =c ise a+b+c a�a��dakilerden hangisi olabilir?"
+
+    },
+    {
+        "1": {
+            "a": "17",
+            "b": "18",
+            "c": "19",
+            "d": "20",
+            "e": "21"
+        },
+        "2": {
+            "a": "17",
+            "b": "18",
+            "c": "19",
+            "d": "20",
+            "e": "21"
+
+        },
+        "3": {
+            "a": "20",
+            "b": "36",
+            "c": "51",
+            "d": "64",
+            "e": "21"
+
+        },
+        "4": {
+            "a": "12",
+            "b": "13",
+            "c": "15",
+            "d": "20",
+            "e": "37"
+
+        },
+        "5": {
+            "a": "10",
+            "b": "11",
+            "c": "-10",
+            "d": "-11",
+            "e": "-25"
+
+        },
+        "6": {
+            "a": "99",
+            "b": "96",
+            "c": "91",
+            "d": "84",
+            "e": "75"
+        },
+        "7": {
+            "a": "(k�k i�inde)3",
+            "b": "7",
+            "c": "4 (b�l� k�k 5)",
+            "d": "5i",
+            "e":"(pi say�s�)"
+        },
+        "8": {
+            "a": "(k�k 16)",
+            "b": "0",
+            "c": "10 (b�l� k�k4)",
+            "d": "(k�k8)",
+            "e": "(5 b�l� 9)"
+        },
+        "9": {
+            "a": "25",
+            "b": "24",
+            "c": "16",
+            "d": "9",
+            "e": "4"
+        },
+        "10": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+            "e": "5"
+        },
+
+        "11": {
+            "a": "145",
+            "b": "134",
+            "c": "132",
+            "d": "128",
+            "e": "102"
+        },
+        "12": {
+            "a": " ",
+            "b": " ",
+            "c": " ",
+            "d": " ",
+            "e": " "
+        },
+        "13": {
+            "a": "7a+3",
+            "b": "2a+8",
+            "c": "4(a+1)",
+            "d": "5+4a",
+            "e": "9+a"
+        },
+        "14": {
+            "a": "a �ift say�d�r.",
+            "b": "b-c �ift say�d�r.",
+            "c": "a-c tek say�d�r.",
+            "d": "a-b �ift say�d�r.",
+            "e": "a+b tek say�d�r."
+        },
+        "15": {
+            "a": "1 ve 2",
+            "b": "1 ve 3",
+            "c": "2 ve 3",
+            "d": "Yaln�z 2",
+            "e": "Yaln�z 3"
+        },
+        "16": {
+            "a": "a.b.c",
+            "b": "a-b",
+            "c": "a+b",
+            "d": "b-c",
+            "e": "a-c"
+        },
+        "17": {
+            "a": "a+b",
+            "b": "a-b",
+            "c": "a(�ss�4). b",
+            "d": "b-c",
+            "e": "a (b�l�)b"
+        },
+        "18": {
+            "a": "-,-",
+            "b": "+,-",
+            "c": "-,+",
+            "d": "+,+",
+            "e": "Kesin bir şey söylenemez."
+        },
+        "19": {
+            "a": "-2,-5,+7,-4",
+            "b": "-5,-9,-8,+7",
+            "c": "+8,+2,+5,-2",
+            "d": "-6,-5,+3,+4",
+            "e": "-1,+3,+2,-10"
+        },
+        "20": {
+            "a": "Yaln�z 3(roma rakam�)",
+            "b": "Yaln�z 2 (roma rakam�)",
+            "c": "Yaln�z 1(roma rakam�)",
+            "d": "1 ve 2",
+            "e": "1 ve 3"
+        },
+        "21": {
+            "a": "�nstagram",
+            "b": "Facebook",
+            "c": "Twitter",
+            "d": "Youtube",
+            "e": "Twitter ve Youtube"
+        },
+        "22": {
+            "a": "Yaln�z 1(roma rakam�)",
+            "b": "Yaln�z 2",
+            "c": "Yaln�z 3",
+            "d": "1 ve 2",
+            "e": "1 ve 3"
+        },
+        "23": {
+            "a": "11",
+            "b": "22",
+            "c": "33",
+            "d": "44",
+            "e": "55"
+        },
+        "24": {
+            "a": "-2",
+            "b": "-4",
+            "c": "-6",
+            "d": "-8",
+            "e": "-10"
+        },
+        "25": {
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "14",
+            "e": "16"
+        }
+    },
+    {
+        "1": "18",
+        "2": "17",
+        "3": "100",
+        "4": "37",
+        "5": "-25",
+        "6": "99",
+        "7": "7",
+        "8": "k�k8",
+        "9": "25",
+        "10": "5",
+        "11": "132",
+        "12": "4.9 �ss�5",
+        "13": "5+4a",
+        "14": "b-c �ift say�d�r.",
+        "15": "Yaln�z 3(roma rakam�)",
+        "16": "a-b",
+        "17": "a �ss�4 .b",
+        "18": "-,-",
+        "19": "+8,+2,+5,-2",
+        "20": "Yaln�z 1(roma rakam�)",
+        "21": "Twitter",
+        "22": "Yalnız 3(roma rakamı)",
+        "23": "33",
+        "24": "-8",
+        "25": "14"
+    }
+]
